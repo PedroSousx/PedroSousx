@@ -12,7 +12,6 @@
 
 <div align="center">
   <a href="https://github.com/PedroSousx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSousx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSousx&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
@@ -39,6 +38,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </div>
 
 
