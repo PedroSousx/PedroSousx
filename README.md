@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou o Pedro Sousa — Front-End Developer 🚀
 
-- 🔭 Cursando atualmente Análise e Desenvolvimento de Sistemas (4º SEMESTRE - FATEC FRANCA).
+- 🔭 Cursando atualmente Análise e Desenvolvimento de Sistemas (5º SEMESTRE - FATEC FRANCA).
 
 ### 🌎 Conecte-se comigo
 
