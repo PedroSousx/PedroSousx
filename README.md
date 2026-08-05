@@ -1,17 +1,12 @@
 ### 👋 Olá, eu sou o Pedro Sousa — Front-End Developer 🚀
 
+Desenvolvedor Front-End com experiência na criação de interfaces modernas, responsivas e focadas na experiência do usuário utilizando React, Next.js, Tailwind CSS, além de conhecimentos básicos em Node.js, JavaScript e TypeScript. Possui vivência profissional como desenvolvedor Low Code (GeneXus), atuando com modelagem de dados, regras de negócio e integração com bancos SQL, especialmente em sistemas de RH, departamento pessoal e folha de pagamento. Também atua como freelancer no desenvolvimento de landing pages e aplicações web, aplicando boas práticas de componentização, rotas, consumo de APIs e deploy. Atualmente cursa Análise e Desenvolvimento de Sistemas pela FATEC Franca e busca oportunidades para crescer na área de Front-End.
+
 ### 🌎 Conecte-se comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_sousa_25/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-sousa-251a382b1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroSousx)
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/PedroSousx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSousx&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ### 🚀 Tecnologias que utilizo
 
