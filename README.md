@@ -1,6 +1,6 @@
-### 👋 Olá, eu sou o Pedro Sousa — Front-End Developer 🚀
+### 👋 Olá, eu sou o Pedro Sousa — Full Stack Developer 🚀
 
-Desenvolvedor Front-End com experiência na criação de interfaces modernas, responsivas e focadas na experiência do usuário utilizando React, Next.js, Tailwind CSS, além de conhecimentos básicos em Node.js, JavaScript e TypeScript. Possui vivência profissional como desenvolvedor Low Code (GeneXus), atuando com modelagem de dados, regras de negócio e integração com bancos SQL, especialmente em sistemas de RH, departamento pessoal e folha de pagamento. Também atua como freelancer no desenvolvimento de landing pages e aplicações web, aplicando boas práticas de componentização, rotas, consumo de APIs e deploy. Atualmente cursa Análise e Desenvolvimento de Sistemas pela FATEC Franca e busca oportunidades para crescer na área de Front-End.
+Desenvolvedor Full Stack com experiência na criação de interfaces modernas, responsivas e focadas na experiência do usuário utilizando React, Next.js, Tailwind CSS, além de conhecimentos básicos em Node.js, JavaScript e TypeScript. Possui vivência profissional como desenvolvedor Low Code (GeneXus), atuando com modelagem de dados, regras de negócio e integração com bancos SQL, especialmente em sistemas de RH, departamento pessoal e folha de pagamento. Também atua como freelancer no desenvolvimento de landing pages e aplicações web, aplicando boas práticas de componentização, rotas, consumo de APIs e deploy. Atualmente cursa Análise e Desenvolvimento de Sistemas pela FATEC Franca e busca oportunidades para crescer na área de Front-End.
 
 ### 🌎 Conecte-se comigo
 
